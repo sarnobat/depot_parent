@@ -18,4 +18,4 @@
 	url = git@github.com:sarnobat/javascript.git
 [submodule "c_helloworld"]
 	path = c_helloworld
-	url = git@github.com:sarnobat/c_helloworld.git
+	url = git@github.com:sarnobat/c.git
