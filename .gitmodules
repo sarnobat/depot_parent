@@ -22,3 +22,5 @@
 [submodule "cython"]
 	path = cython
 	url = git@github.com:sarnobat/cython.git
+[submodule "c"]
+	url = git@github.com:sarnobat/c.git
