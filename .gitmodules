@@ -7,8 +7,8 @@
 [submodule "graalvm_aotc_java"]
 	path = graalvm_aotc_java
 	url = git@github.com:sarnobat/graalvm_aotc_java.git
-[submodule "cpp_makefile_helloworld"]
-	path = cpp_makefile_helloworld
+[submodule "cpp"]
+	path = cpp
 	url = git@github.com:sarnobat/cpp_makefile_helloworld.git
 [submodule "rust"]
 	path = rust
