@@ -16,9 +16,6 @@
 [submodule "javascript"]
 	path = javascript
 	url = git@github.com:sarnobat/javascript.git
-[submodule "c_helloworld"]
-	path = c_helloworld
-	url = git@github.com:sarnobat/c.git
 [submodule "cython"]
 	path = cython
 	url = git@github.com:sarnobat/cython.git
